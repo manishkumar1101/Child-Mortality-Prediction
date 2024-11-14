@@ -1,0 +1,46 @@
+Child Mortality prediction using Machine Learning Techniques
+
+Data Analysis of Visualization,Logistic Regression,Random Forest,Naïve Bayes Algorithm,KNN Algorithm
+
+
+IEEE Conference on Machine Learning,Issue Date:24.May.2022
+
+Child_Mortality_Prediction
+
+
+child_mortality_prediction
+
+Chickenpox (varicella)
+Whooping cough (pertussis)
+Measles
+Mumps
+Rubella
+Rotavirus
+Tetanus
+Influenza
+Hepatitis B
+Meningococcal ACWY
+Influenza
+Bronchitis
+RSV
+Conjunctivitis
+Gastroenteritis
+
+
+
+child_mortality_type
+
+
+country
+start_date
+end_date
+days
+year
+week
+total_deaths
+Child_Age
+Disease
+Medicine_Status
+Life_expectany
+RID
+Prediction
